@@ -1,0 +1,1 @@
+MacOSX icon theme
