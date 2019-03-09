@@ -1,0 +1,2 @@
+rufus可以创建uefi
+usb-installer只可以创建legacy
